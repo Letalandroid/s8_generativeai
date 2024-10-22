@@ -1,0 +1,29 @@
+{
+  "name": "s8",
+  "version": "1.0.0",
+  "description": "A Generative AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Letalandroid/s8_generativeai.git"
+  },
+  "keywords": [
+    "ai",
+    "js",
+    "npm",
+    "html",
+    "css",
+    "gemini",
+    "bard",
+    "google"
+  ],
+  "author": "Letalandroid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Letalandroid/s8_generativeai/issues"
+  },
+  "homepage": "https://github.com/Letalandroid/s8_generativeai#readme"
+}
