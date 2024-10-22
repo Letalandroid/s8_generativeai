@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/Letalandroid/s8_generativeai/issues"
   },
-  "homepage": "https://github.com/Letalandroid/s8_generativeai#readme"
+  "homepage": "https://github.com/Letalandroid/s8_generativeai#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  }
 }
